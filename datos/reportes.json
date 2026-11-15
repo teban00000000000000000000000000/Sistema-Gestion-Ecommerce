@@ -1,0 +1,26 @@
+[
+    {
+        "Fecha": "15/11/2026 02:43",
+        "TotalUsuarios": 0,
+        "TotalProductos": 0,
+        "TotalMovimientos": 0,
+        "TotalPedidos": 0,
+        "TotalVentas": 0
+    },
+    {
+        "Fecha": "15/11/2026 02:48",
+        "TotalUsuarios": 1,
+        "TotalProductos": 1,
+        "TotalMovimientos": 1,
+        "TotalPedidos": 1,
+        "TotalVentas": 1000
+    },
+    {
+        "Fecha": "15/11/2026 03:05",
+        "TotalUsuarios": 1,
+        "TotalProductos": 1,
+        "TotalMovimientos": 1,
+        "TotalPedidos": 5,
+        "TotalVentas": 4000
+    }
+]

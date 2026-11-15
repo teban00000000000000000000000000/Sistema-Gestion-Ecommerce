@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 1,
+        "Cliente": "Juan Pérez",
+        "Producto": "Laptop",
+        "Cantidad": 2,
+        "Precio": 500,
+        "Total": 1000,
+        "Estado": "Pendiente",
+        "Fecha": "15/11/2026"
+    },
+    {
+        "ID": 2,
+        "Cliente": "Juan Pérez",
+        "Producto": "Laptop",
+        "Cantidad": 2,
+        "Precio": 500,
+        "Total": 1000,
+        "Estado": "Pendiente",
+        "Fecha": "15/11/2026"
+    },
+    {
+        "ID": 3,
+        "Cliente": "Juan Pérez",
+        "Producto": "Laptop",
+        "Cantidad": 2,
+        "Precio": 500,
+        "Total": 1000,
+        "Estado": "Pendiente",
+        "Fecha": "15/11/2026"
+    },
+    {
+        "ID": 4,
+        "Cliente": "Juan Pérez",
+        "Producto": "Laptop",
+        "Cantidad": 1,
+        "Precio": 500,
+        "Total": 500,
+        "Estado": "Pendiente",
+        "Fecha": "15/11/2026"
+    },
+    {
+        "ID": 5,
+        "Cliente": "Juan Pérez",
+        "Producto": "Laptop",
+        "Cantidad": 1,
+        "Precio": 500,
+        "Total": 500,
+        "Estado": "Enviado",
+        "Fecha": "15/11/2026"
+    }
+]
